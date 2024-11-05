@@ -1,0 +1,1 @@
+<p style="font-size: 20px,font-family: Arial, sans-serif;"> A school project which uses Tkinter for GUI, and MySQL connectivity with Python for python to work on very very basic Inventory management wokring just on Basic CRUD operations </p>
